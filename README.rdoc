@@ -5,3 +5,4 @@ This is the first application for the
 [*Ruby on Rails Tutorial*](http://www.railstutorial.org/)
 Tutorial by [Michael Hartl](http://www.michaelhartl.com/).
 Current Developer: Samuel Gonzalez
+You can see the app output at https://samuel-rails-hello-app.herokuapp.com/
